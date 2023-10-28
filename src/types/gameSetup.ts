@@ -1,0 +1,1 @@
+export type gameSetup = { isNumbersTheme: boolean, numOfPlayers: number, gridSize: number}
